@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+
+import matplotlib.pyplot as plt
+from math import sin, pi
+
+n = 100
+t = 0
+max_time = 10
+
+x = []
+y = []
+
+while t < max_time:
+    sum_ = 0
+    for k in range(1, n + 1):
+        sum_ += sin(k*t)/k
+    
+    x.append(t)
+    y.append(sum_)
+    t += 0.001
+        
+plt.plot(x,y)
+plt.show()

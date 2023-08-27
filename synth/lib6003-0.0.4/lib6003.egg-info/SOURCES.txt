@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README
+requirements.txt
+setup.cfg
+setup.py
+lib6003/__init__.py
+lib6003/audio.py
+lib6003/fft.py
+lib6003/image.py
+lib6003/wavfile.py
+lib6003.egg-info/PKG-INFO
+lib6003.egg-info/SOURCES.txt
+lib6003.egg-info/dependency_links.txt
+lib6003.egg-info/requires.txt
+lib6003.egg-info/top_level.txt

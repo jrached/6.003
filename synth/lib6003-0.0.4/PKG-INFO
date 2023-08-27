@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: lib6003
+Version: 0.0.4
+Summary: Software for 6.003
+Home-page: https://mit.edu/6.003
+Author: 6.003 Staff
+Author-email: 6.003-core@mit.edu
+License: GPLv3+
+Description: lib6003
+        Code for MIT's 6.003 (http://mit.edu/6.003)
+        
+        Questions/concerns?  E-mail 6.003-core@mit.edu
+        
+        Licensed under GPLv3
+        (see LICENSE file, or https://www.gnu.org/licenses/gpl-3.0.en.html)
+        
+Platform: UNKNOWN
